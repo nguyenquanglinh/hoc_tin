@@ -10,6 +10,7 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
+            // commit thử
             Console.Write("1:đôi đô C=>K\t\t\t");
             Console.WriteLine(" 2:đôi đô K=>C");
             Console.Write("3:đôi Km=>m\t\t\t");
