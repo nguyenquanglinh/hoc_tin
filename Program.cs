@@ -15,25 +15,7 @@ namespace ConsoleApplication3
             Console.WriteLine(" 2:đôi đô K=>C");
             Console.Write("3:đôi Km=>m\t\t\t");
             Console.WriteLine(" 4:đôi m=>Km");
-            Console.Write("5:đôi Km/h=>m/s\t\t\t");
-            Console.WriteLine(" 6:đôi m/s=>Km/h");
-            Console.Write("7:đôi tư HP=>KW\t\t\t");
-            Console.WriteLine(" 8:đôi tư KW=>HP");
-            Console.Write("9;đôi tư m2=>Km2\t\t");
-            Console.WriteLine(" 10:đôi tư Km2=>m2");
-            Console.Write("11:đôi tư m2=>cm2\t\t");
-            Console.WriteLine(" 12:đôi tư cm2=>m2");
-            Console.Write("13:đôi tư cm=>in\t\t");
-            Console.WriteLine(" 14:đôi tư in=>cm");
-            Console.Write("15:đôi tư ft=>m\t\t\t");
-            Console.WriteLine(" 16:đôi tư m=>Ft");
-            Console.Write("17:đôi tư m=>Pc\t\t\t");
-            Console.WriteLine(" 18:đôi tư Pc=>m");
-            Console.Write("19:đôi tư Yd=>m\t\t\t");
-            Console.WriteLine(" 20:đôi tư m=>Yd");
-            Console.Write("21:đôi tư cm3=>m3\t\t");
-            Console.WriteLine(" 22:đôi tư m3=>cm3");
-            Console.Write("lưa chon cua ban la ");
+
             ulong sô = ulong.Parse(Console.ReadLine());
             Console.WriteLine("----------------------------");
             if (sô == 1)
